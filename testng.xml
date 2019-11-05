@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name = "suite" parallel = "tests">
+
+<test name = "test" junit = "true">
+
+<classes>
+
+<class name = "com.cucumber.framework.LoginRunner.java">
+
+</class>
+
+
+</classes>
+
+
+
+</test>
+
+
+</suite>
